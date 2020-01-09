@@ -1,0 +1,6 @@
+android/build
+tsconfig.json
+index.ts
+Example
+prepare.sh
+.travis.yml
